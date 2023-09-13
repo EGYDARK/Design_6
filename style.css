@@ -391,6 +391,10 @@ body
 /* =================== End pat ================= */
 @media (max-width: 1450px) 
 {
+    .container  
+    {
+        padding: 100px;
+    }
     .container .content .dan,
     .container .content .jon,
     .container .content .kira,
